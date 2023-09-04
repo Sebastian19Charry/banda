@@ -1,14 +1,10 @@
 from instrumento import *
+from ramdom import choice
 class Musico:
     def __init__(self, instrumento):
-        self.instrumento = instrumento
+        self.instrumento = []
 
-    def tocar_instrumento(self):
-        self.instrumento.tocar_instrumento()
-
-    def afinar_instrumento(self):
-        self.instrumento.afinar_instrumento()
-    
-
+    def asignar_instrumento(self, instrumento)
+        self.animales.append(
 
     
