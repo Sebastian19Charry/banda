@@ -1,7 +1,18 @@
 class Instrumento:
-    def instrumento(self, guitarra, piano, flauta, bajo, bateria):
-        gt = guitarra
-        pn = piano
-        ft = flauta
-        bj = bajo
-        bt = bateria
+    def __init(self):
+        pass
+
+class Guitarra(Instrumento):
+    pass
+
+class Flauta(Instrumento):
+    pass
+
+class Bajo(Instrumento):
+    pass
+
+class Bateria(Instrumento):
+    pass
+
+class Pandereta(Instrumento):
+    pass
